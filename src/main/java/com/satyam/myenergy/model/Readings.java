@@ -9,7 +9,7 @@ public class Readings {
 	
 	public Readings()
 	{
-		
+		System.out.println(" Hello reading bro");
 	}
 
 	public String getSmartMeterId() {
